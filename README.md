@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , I'm Divyaditya Bhardwaj <br><br>-A passionate CS student from India <br><br><br><br>
+Hi , I'm Divyaditya Bhardwaj <br><br>-I try to make functional backends and frontends , sometimes ai models that actually work too :) <br><br><br><br>
 
 
 ## 🌐 Socials:
